@@ -1,9 +1,10 @@
 # Simple Bluetooth Socket for communication with Arduino HC05, HC06
 
+<img src="./Screenshots/arduino-bluetooth-hc06.png" width="300">  
+
 ## Procedure for Arduino:
-<img src="./Screenshots/arduino-bluetooth-hc06.png" width="300">
-1. Connect HC06 as illustrated in schematics.
-2. Upload this snippet
+1. Connect HC06 as illustrated in schematics above.  
+2. Upload this code snippet to Arduino IDE Sketch.
 
 ``` arduino
 /* BLESocketSketch.ino */
