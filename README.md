@@ -4,6 +4,7 @@
 <img src="./Screenshots/arduino-bluetooth-hc06.png" width="300">
 1. Connect HC06 as illustrated in schematics.
 2. Upload this snippet
+
 ``` arduino
 /* BLESocketSketch.ino */
 
@@ -33,6 +34,7 @@ void loop() {
   delay(200);
 }
 ``` 
+
 ## Procedure for Android:
 
 1. Define necessary Bluetooth permissions in Manifest.
