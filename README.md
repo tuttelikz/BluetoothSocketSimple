@@ -3,8 +3,8 @@
 <img src="./Screenshots/arduino-bluetooth-hc06.png" width="300">  
 
 ## Procedure for Arduino:
-1. Connect HC06 as illustrated in schematics above.  
-2. Upload this code snippet to Arduino IDE Sketch.
+1. Connect HC06 Bluetooth module as illustrated in schematics above.  
+2. Upload this code snippet to Arduino IDE sketch.
 
 ``` arduino
 /* BLESocketSketch.ino */
